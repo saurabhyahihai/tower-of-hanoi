@@ -68,7 +68,7 @@ def main():
     print("=== Tower of Hanoi ===")
 
     num_disks = 3
-    visualize = 1  # set to 1 if you want to see rod states
+    visualize = 0  # set to 1 if you want to see rod states
 
     print(f"\nDisks: {num_disks}\n")
 
